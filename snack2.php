@@ -35,6 +35,10 @@ if ((strlen($name) > 3) && (strpos($mail, '@') && strpos($mail, '.')) && (is_num
 </head>
 
 <body>
+    <h2>SHORTCUT FOR QUERY CHECK = ?name=alessio&mail=alessio.cordari@gmail.com&age=28</h2>
+<h3><a href="snack3.php">NEXT SNACK</a></h3>
+<h3><a href="snack1.php">PREVIOUS SNACK</a></h3>
+
 </body>
 
 </html>

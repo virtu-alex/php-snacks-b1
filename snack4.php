@@ -1,3 +1,6 @@
+SNACK 4 (BONUS)
+Creare un array con 15 numeri casuali, tenendo conto che l’array non dovrà contenere lo stesso numero più di una volta.<br><br>
+
 <?php
 
 function getRandomNumbers($min, $max, $n_items)
@@ -27,8 +30,8 @@ print_r(getRandomNumbers(1, 100, 15));
 </head>
 
 <body>
-    <div>
-    </div>
+    <h3><a href="snack5.php">NEXT SNACK</a></h3>
+    <h3><a href="snack3.php">PREVIOUS SNACK</a></h3>
 </body>
 
 </html>

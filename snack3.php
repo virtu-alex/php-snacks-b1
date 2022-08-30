@@ -57,6 +57,8 @@ $posts = [
 </head>
 
 <body>
+    <h3><a href="snack4.php">NEXT SNACK</a></h3>
+    <h3><a href="snack2.php">PREVIOUS SNACK</a></h3>
     <ul>
         <?php foreach ($posts as $array_dates => $posts) : ?>
             <li>

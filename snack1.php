@@ -27,6 +27,8 @@ $team_guest = [
 
 <body>
     <div>
+        <h3><a href="snack2.php">NEXT SNACK</a></h3>
+        <h3><a href="index.php">GO BACK TO INDEX OF</a></h3>
         <ul>
             <?php for ($i = 0; $i <= count($teams); $i++) : ?>
                 <li>
